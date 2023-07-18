@@ -146,4 +146,7 @@ html {
     white-space: nowrap;
     transition: width .3s ease-in-out;
   }
+  .menu-link:hover::before{
+    width: 100%;
+  }
   
