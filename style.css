@@ -129,3 +129,10 @@ html {
   .menu-item {
     text-align: center;
   }
+  .menu-link {
+    font-family: "Baloo Da 2", serif;
+    font-size: 4rem;
+    color: #555;
+    position: relative;
+  }
+  
