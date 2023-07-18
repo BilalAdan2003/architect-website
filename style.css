@@ -59,3 +59,8 @@ html {
       transform: scale(1);
     }
   }
+  .banner {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+  }
