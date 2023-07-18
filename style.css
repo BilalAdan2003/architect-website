@@ -168,3 +168,6 @@ html {
     border-radius: 50%;
     transition: background-color 0.3s;
   }
+  .social-media i:hover {
+    background-color: #C29525;
+  }
