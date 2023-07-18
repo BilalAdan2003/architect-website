@@ -135,4 +135,15 @@ html {
     color: #555;
     position: relative;
   }
+  .menu-link::before {
+    content: attr(data-content);
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #C29525;
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    transition: width .3s ease-in-out;
+  }
   
