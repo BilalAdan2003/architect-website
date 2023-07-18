@@ -38,3 +38,9 @@ html {
     perspective: 100rem;
     overflow: hidden;
   }
+  .img-wrapper {
+    width: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: hidden;
+  }
