@@ -87,3 +87,6 @@ html {
     opacity: 0;
     animation: moveBanner 1s 0.7s forwards;
   }
+  .banner button {
+    width: 25rem;
+    
